@@ -11,6 +11,11 @@ import java.util.Scanner;
  */
 public class metodos1 {
     
+    
+    
+    
+    
+    
     public static String leerCadena(){
         Scanner sc = new Scanner(System.in);
         String cadena = sc.nextLine(); //leemos la cadena
